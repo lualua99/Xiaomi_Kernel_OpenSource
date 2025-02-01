@@ -45,6 +45,7 @@
 | elish-r-oss | Xiaomi Pad 5 Pro, Xiaomi Pad 5 Pro 5G | Android R | LA.UM.9.12.r1-08000-SMxx50.0 | [elish-r-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/elish-r-oss) |
 | ferrari-l-oss | Mi 4i | Android L | LA.BR.1.1.2-01120-8x16.0 | [ferrari-l-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/ferrari-l-oss) |
 | fire-t-oss | Redmi 12 | Android T | alps-mp-s0.mp1.tc8sp2-cs1-xm.V1.0.13_P53 | [fire-t-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/fire-t-oss) |
+| flame-u-oss | Redmi 14R 5G, POCO M7 5G | Android U | LA.VENDOR.1.0.r1-24600-WAIPIO.QSSI14.0-1 | [flame-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/flame-u-oss) |
 | fleur-s-oss | Redmi Note 11S, POCO M4 Pro | Android S | alps-mp-r0.mp8.tc8sp3-mt6781-V1.5.1 | [fleur-s-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/fleur-s-oss) |
 | gram-q-oss | MI POCO M2 Pro,Redmi Note 9 Pro,Redmi Note 9 Pro Max | Android Q | LA.UM.8.9.r1-07100-SM6xx.0 | [gram-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/gram-q-oss) |
 | gemini-m-oss | Mi 5 | Android M | LA.HB.1.1.1.c2_rb1035 | [gemini-m-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/gemini-m-oss) |
@@ -207,4 +208,14 @@
 | chenfeng-u-oss | Civi 4 pro | Android U | AU_LINUX_KERNEL.PLATFORM.3.0.R1.00.00.00.017.065 | [chenfeng-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/chenfeng-u-oss) |
 | breeze-u-oss | Redmi Note 13R | Android U | LA.VENDOR.1.0.r1-24300-WAIPIO.QSSI14.0-1 | [breeze-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/breeze-u-oss) |
 | moon-u-oss | POCO M6/Redmi 13 | Android U | t-alps-release-s0.mp1.tc8sp-cs3-V1.31 | [moon-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/moon-u-oss) |
-
+| goku-u-oss | Xiaomi MIX Fold 4 | Android U | AU_LINUX_ANDROID_LA.VENDOR.14.3.0.R1.00.00.00.000.093 | [goku-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/goku-u-oss-test ) |
+| bsp-rothko-u-oss | Redmi K70 Ultra | Android U | TAG:alps-mp-u0.mp1.tc8sp3-V1 | [bsp-rothko-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-rothko-u-oss ) |
+| bsp-degas-u-oss | Xiaomi 14T | Android U | alps-mp-u0.mp1.tc8sp3-V1 | [bsp-degas-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-degas-u-oss) |
+| gale-s-oss | Redmi 13C，POCO C65 | Android T | t-alps-release-s0.mp1.tc8sp-cs2-V1.31 |[gale-s-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/gale-s-oss) |
+| spark-s-oss | Redmi Pad SE 4G, Redmi Pad SE 8.7 4G | Android U | t-alps-release-s0.mp1.tc8sp-cs3-V1.43 |[spark-s-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/spark-s-oss) |
+| malachite-u-oss | Redmi Note 14 Pro | Android U | t-alps-release-u0.mp1.tc8sp3-V1 |[malachite-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/malachite-u-oss) |
+| beryl-u-oss | POCO M7 Pro 5G / Redmi Note 14 5G | Android U | t-alps-release-s0.mp1.tc8sp-cs3-V1.67 |[beryl-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/beryl-u-oss) |
+| muyu-v-oss | Xiaomi Pad 7 Pro | Android U | LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[muyu-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/muyu-v-oss) |
+| uke-v-oss | Xiaomi Pad 7 | Android V | LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[uke-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/uke-v-oss) |
+| bsp-zorn-v-oss | REDMI K80  | Android V | qcom-LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[bsp-zorn-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-zorn-v-oss) |
+| bsp-miro-v-oss | REDMI K80 PRO | Android V | qcom-LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[bsp-miro-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-miro-v-oss) |

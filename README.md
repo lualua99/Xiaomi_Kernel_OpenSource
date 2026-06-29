@@ -45,7 +45,7 @@
 | elish-r-oss | Xiaomi Pad 5 Pro, Xiaomi Pad 5 Pro 5G | Android R | LA.UM.9.12.r1-08000-SMxx50.0 | [elish-r-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/elish-r-oss) |
 | ferrari-l-oss | Mi 4i | Android L | LA.BR.1.1.2-01120-8x16.0 | [ferrari-l-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/ferrari-l-oss) |
 | fire-t-oss | Redmi 12 | Android T | alps-mp-s0.mp1.tc8sp2-cs1-xm.V1.0.13_P53 | [fire-t-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/fire-t-oss) |
-| flame-u-oss | Redmi 14R 5G, POCO M7 5G | Android U | LA.VENDOR.1.0.r1-24600-WAIPIO.QSSI14.0-1 | [flame-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/flame-u-oss) |
+| flame-u-oss | Redmi 14R 5G, POCO M7 5G, Redmi 14C 5G | Android U | LA.VENDOR.1.0.r1-24600-WAIPIO.QSSI14.0-1 | [flame-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/flame-u-oss) |
 | fleur-s-oss | Redmi Note 11S, POCO M4 Pro | Android S | alps-mp-r0.mp8.tc8sp3-mt6781-V1.5.1 | [fleur-s-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/fleur-s-oss) |
 | gram-q-oss | MI POCO M2 Pro,Redmi Note 9 Pro,Redmi Note 9 Pro Max | Android Q | LA.UM.8.9.r1-07100-SM6xx.0 | [gram-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/gram-q-oss) |
 | gemini-m-oss | Mi 5 | Android M | LA.HB.1.1.1.c2_rb1035 | [gemini-m-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/gemini-m-oss) |
@@ -226,8 +226,27 @@
 | dijun-v-oss | Xiaomi 15 SPro / Xiaomi Pad 7 Ultra | Android V | release-v-xring-O1 | [dijun-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dijun-v-oss) |
 | onyx-v-oss | REDMI Turbo 4 Pro | Android V | LA.VENDOR.15.4.0.r1-15000-r1.0.r1_00044.1 |[onyx-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/onyx-v-oss) |
 | bixi-v-oss | Xiaomi MIX Flip 2 | Android V | LA.VENDOR.15.4.0.r1-10100-r1.0.r1_00025.1 |[bixi-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bixi-v-oss) |
+| violin-v-oss | Xiaomi Pad 7S Pro 12.5 | Android V | release-v-xring-O1 | [violin-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/violin-v-oss) |
 | creek-v-oss | POCO M7 / Redmi 15 | Android V | Divar.LA.3.0.1 MPSS.HA.1.2-00060-KD_ALL_PACK-1 |[creek-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/creek-v-oss) |
 | dew-v-oss | REDMI 15C / POCO C85 | Android V | t-alps-release-v0.mp1.rc-V4 |[dew-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dew-v-oss) |
 | bsp-klimt-v-oss | Xiaomi 15T Pro | Android V | t-alps-release-v0.mp1.rc-V12.13 |[bsp-klimt-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-klimt-v-oss) |
 | kunzite-v-oss | REDMI Note 15 SE 5G / REDMI Note 15 | Android V | LA.VENDOR.15.4.1.r1-06600-r1.0.r1_00017.0 |[kunzite-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/kunzite-v-oss) |
-| lapis-v-oss | REDMI Note 15 Pro | Android V | bsp-t-alps-release-u0.mp1.tc8sp3-V1 |[lapis-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lapis-v-oss) |
+| lapis-v-oss | REDMI Note 15 Pro 5G | Android V | bsp-t-alps-release-u0.mp1.tc8sp3-V1 |[lapis-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/lapis-v-oss) |
+| popsicle-w-oss | Xiaomi 17 / Xiaomi 17 Pro / Xiaomi 17 Pro Max | Android W | release-w-qcom-sm8850 |[popsicle-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/popsicle-w-oss) |
+| spring-v-oss | Redmi 15 5G / Redmi Note 15R / POCO M7 Plus 5G | Android V | LA.VENDOR.14.3.1.r1-03700-MANNAR.QSSI15.0-1.107589.1.111280.1 |[spring-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/spring-v-oss) |
+| tornado-v-oss | Redmi 15C 5G / POCO C85 5G / REDMI 15C 5G / REDMI 15R 5G | Android V | alps-release-t0.mp1.tc8sp2-V1.281.1 |[tornado-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/tornado-v-oss) |
+| dash-w-oss | REDMI Turbo 5 Max | Android W | base-v-t-alps-release-v0.mp1.rc-V13.94 |[dash-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/dash-w-oss) |
+| rock-u-oss | POCO M5 / Redmi 11 Prime | Android U | alps-mp-s0.mp1.tc8sp2-cs1-xm.V1.0.13 |[rock-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/rock-u-oss) |
+| annibale-w-oss | REDMI K90 / POCO F8 Pro | Android W | LA.VENDOR.15.4.0.r1-15000-r1.0.r1_00044.1 |[annibale-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/annibale-w-oss) |
+| charoite-v-oss | REDMI Note 15 Pro | Android V | t-alps-release-s0.mp1.tc8sp2-cs1-xm-V1.143.1 |[charoite-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/charoite-v-oss) |
+| flourite-v-oss | POCO M8 Pro 5G / REDMI Note 15 Pro+ / REDMI Note 15 Pro+ 5G Pro | Android V | LA.VENDOR.14.3.0.r1-14500-r1.0.r1_00042.0 |[flourite-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/flourite-v-oss) |
+| yupei-w-oss | Xiaomi Pad 8 | Android W | LA.VENDOR.15.4.0.r1-15000-r1.0.r1_00044.1 |[yupei-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/yupei-w-oss) |
+| piano-w-oss | Xiaomi Pad 8 Pro | Android W | LA.VENDOR.15.4.0.r1-15000-r1.0.r1_00044.1 |[piano-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/piano-w-oss) |
+| yili-w-oss | REDMI K Pad 2 | Android W | t-alps-release-b0.mp1.rc-V10.25 |[yili-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/yili-w-oss) |
+| agate-u-oss | Xiaomi 11T | Android U | alps-mp-s0.mp1.tc8sp-cs2-V1.14 |[agate-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/agate-u-oss) |
+| frost-r-oss | POCO C40 | Android R | JR510_R_V0.5.6.R3.B0005.7-0297 |[frost-r-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/frost-r-oss) |
+| light-u-oss | POCO M4 5G/Redmi 10 5G/Redmi 11 Prime 5G/Redmi Note 11E | Android U | t-alps-release-s0.mp1.tc8sp2-cs1-xm-V1.0.13 |[light-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/light-u-oss) |
+| spinel-v-oss | REDMI Note 15 | Android U | alps-mp-s0.mp1.tc8sp2-cs1-xm.V1.143.1 |[spinel-v-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/spinel-v-oss) |
+| sunstone-u-oss | Redmi Note 12 5G / Redmi Note 12 5G / Redmi Note 12R | Android U | Snapdragon_Mid_2021.SPF.2.0 r2.0.c3_00004.3.145544.1 |[sunstone-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/sunstone-u-oss) |
+| guitar-w-oss | REDMI Pad 2 SE | Android W | snapdragon-mid-2022-spf-2-0-2_00004.0 |[guitar-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/guitar-w-oss) |
+| erhu-w-oss | REDMI Pad 2 SE 4G | Android W | snapdragon-mid-2022-spf-2-0-2_00004.0 |[erhu-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/erhu-w-oss) |

@@ -21,6 +21,7 @@
 | cas-q-oss | Mi 10 Ultra, Mi 10 Pro, Mi 10, Redmi K30 Pro | Android Q | LA.UM.8.12.r1-10600-sm8250.0 | [cas-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cas-q-oss) |
 | cannon-q-oss | Redmi Note 9 | Android Q | MTK | [cannon-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cannon-q-oss) |
 | camellia-r-oss | Redmi Note 10 | Android R | MTK | [camellia-r-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/camellia-r-oss) |  
+| camellian-t-oss | POCO M3 Pro 5G / Redmi Note 10 5G / Redmi Note 10T | Android T | alps-mp-s0.mp1.tc8sp-mt6785 |[camellian-t-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/camellian-t-oss) |
 | cepheus-p-oss | Mi 9 | Android P | LA.UM.7.1.r1-07600-sm8150.0 | [cepheus-p-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cepheus-p-oss) |
 | cepheus-q-oss | Mi 9, Redmi K20 Pro | Android Q | LA.UM.8.1.r1-08700-sm8150.0 | [cepheus-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cepheus-q-oss) |
 | cezanne-q-oss | Redmi K30 Ultra | Android Q | MTK | [cezanne-q-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cezanne-q-oss) |
@@ -250,3 +251,7 @@
 | sunstone-u-oss | Redmi Note 12 5G / Redmi Note 12 5G / Redmi Note 12R | Android U | Snapdragon_Mid_2021.SPF.2.0 r2.0.c3_00004.3.145544.1 |[sunstone-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/sunstone-u-oss) |
 | guitar-w-oss | REDMI Pad 2 SE | Android W | snapdragon-mid-2022-spf-2-0-2_00004.0 |[guitar-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/guitar-w-oss) |
 | erhu-w-oss | REDMI Pad 2 SE 4G | Android W | snapdragon-mid-2022-spf-2-0-2_00004.0 |[erhu-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/erhu-w-oss) |
+| ruan-u-oss | POCO Pad 5G / Redmi Pad Pro 5G | Android U | LA.VENDOR.1.0.r1-23800_r2.0.1.r1_00007.0 |[ruan-u-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/ruan-u-oss) |
+| flare-w-oss | Redmi Pad SE 8.7 | Android W | t-alps-release-v0.mp1.tc8sp3-V1.121 |[flare-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/flare-w-oss) |
+| spark-w-oss | Redmi Pad SE 4G / Redmi Pad SE 8.7 4G | Android W | t-alps-release-v0.mp1.tc8sp3-V1.121 |[spark-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/spark-w-oss) |
+| bsp-chagall-w-oss | Xiaomi 17T | Android W | alps-mp-v0.mp1.tc8sp6-V1 | [bsp-chagall-w-oss](https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/bsp-chagall-w-oss ) |
